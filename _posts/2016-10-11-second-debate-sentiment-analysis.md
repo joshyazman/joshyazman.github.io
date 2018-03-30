@@ -12,7 +12,7 @@ One of the immediate arguments after each debate is who got to speak more. Lucki
 Another way of looking at speaking time is to look at the length of each response. The average word count (illustrated by the diamond on the plot below) was much higher for Clinton than Trump because his responses tended to be short and frequent.
 
 <p align="center">
-  <img src="https://joshyazman.github.io/images/second-debate-plots/second-debate-image1.png"
+  <img src="https://joshyazman.github.io/images/second-debate-plots/second-debate-image1.png" #center
 </p>
 
 
