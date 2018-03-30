@@ -11,7 +11,13 @@ One of the immediate arguments after each debate is who got to speak more. Lucki
 
 Another way of looking at speaking time is to look at the length of each response. The average word count (illustrated by the diamond on the plot below) was much higher for Clinton than Trump because his responses tended to be short and frequent.
 
-  <img src="https://joshyazman.github.io/images/second-debate-plots/second-debate-image1.png"
+img[src$="https://joshyazman.github.io/images/second-debate-plots/second-debate-image1.png" '#center']
+{
+    display: block;
+    margin: 0.7rem auto; 
+    
+}
+
 
 The low word-count responses are probably pumped up by Trump’s 44 interruptions (like response 18: “I’d like to respond to that. I assume I can.”) which were each coded as separate responses. Clinton’s responses were more evenly distributed across a variety of word counts, likely because her remarks tend to be prepared and measured and she interrupted far less often than Trump.
 
