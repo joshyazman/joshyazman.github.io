@@ -20,11 +20,15 @@ The low word-count responses are probably pumped up by Trump’s 44 interruption
 # What Sentiments Did Candidates Express Most?
 Next I matched the words in the transcript to the [NRC emotion lexicon](http://www.aclweb.org/anthology/W10-0204) to determine sentiments of candidate responses. Overall, Clinton was much more positive than Trump and tended to use words that evoke trust, joy, and anticipation more often. Conversely, Trump was more negative and used words that evoke surprise, sadness, fear, disgust, and anger.
 
-![Sentiment bar chart](joshyazman.github.io/images/second-debate-plots/second-debate-image2.png)
+<p align="center">
+  <img src="joshyazman.github.io/images/second-debate-plots/second-debate-image2.png"
+</p>
 
 But at my debate watch party, attendees didn’t seem to walk away feeling the way the aggregate sentiments might suggest. Perhaps that’s because Clinton started off more positive and finished the debate on a more negative note (and opposite for Trump) as the following series of charts suggests.
 
-![Sentiments Time](joshyazman.github.io/images/second-debate-plots/second-debate-image3.png)
+<p align="center">
+  <img src="joshyazman.github.io/images/second-debate-plots/second-debate-image3.png"
+</p>
 
 # Why Does This Matter?
 The tone of the debate, much like the rest of the campaign this year, was not particularly uplifting. What this data demonstrates is that the negativity isn’t evenly distributed across both candidates. While Trump ended on a positive note, he also admitted to tax evasion, riffed on how Muslims don’t do enough to keep us safe, and offered a roundly panned response for the video in which he brags about getting away with sexual assault. Clinton certainly attacked Trump (on many of those very comments) but her overall tone was much more positive than his.
