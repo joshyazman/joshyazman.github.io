@@ -39,13 +39,13 @@ We can use negative binomial regression, a generalized linear model ideal for mo
 Overall, seed ranking is remarkably predictive of the number of games a team will win — particularly for very high and very low seeds — which is another positive mark for the Selection Committee. 1-seeds should have won about 400 games since 1985² and they have slightly under-performed that mark, but not by much. The biggest sources of error are in the mid-range of 5–12 seeds, where teams are expected to be more evenly matched, and 2-seeds who generally tend to over-perform relative to expectations based on their seed.
 
 <p align="center">
-  <img src="https://joshyazman.github.io/images/measuring-the-madness/image3.png#center"/>
+  <img src="https://joshyazman.github.io/images/measuring-the-madness/image4.png#center"/>
 </p>
 
 Over time, there are no clear trends in seed performance relative to expectations. Some years 1-seeds win more games than they should and sometimes they win fewer. As a result, the year to year difference can be broadly categorized as madness.
 
 <p align="center">
-  <img src="https://joshyazman.github.io/images/measuring-the-madness/image4.png#center"/>
+  <img src="https://joshyazman.github.io/images/measuring-the-madness/image3.png#center"/>
 </p>
 
 The 2018 tournament had some obvious madness around 1 and 16 seeds as UMBC(16) knocked out UVA (1) three games prior to their expected win count and Florida State (9) beat Xavier(1) two games ahead of their expected win count. Marshall (14) and Buffalo (14) upsets over Wichita State (4) and Arizona (4) respectively made 2018 a mad year for 4-seeds.
