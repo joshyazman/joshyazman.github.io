@@ -48,11 +48,11 @@ Over time, there are no clear trends in seed performance relative to expectation
   <img src="https://joshyazman.github.io/images/measuring-the-madness/image3.png#center"/>
 </p>
 
-The 2018 tournament had some obvious madness around 1 and 16 seeds as UMBC(16) knocked out UVA (1) three games prior to their expected win count and Florida State (9) beat Xavier(1) two games ahead of their expected win count. Marshall (14) and Buffalo (14) upsets over Wichita State (4) and Arizona (4) respectively made 2018 a mad year for 4-seeds.
+The 2018 tournament had some obvious madness around 1-seeds as UMBC(16) knocked out UVA (1) three games prior to their expected win count and Florida State (9) beat Xavier(1) two games ahead of their expected win count. Marshall (14) and Buffalo (14) upsets over Wichita State (4) and Arizona (4) respectively made 2018 a mad year for 4-seeds too.
 
 # Conclusion
 
-While there is some debate about the quality of the selection committee’s decisions every year, there don’t tend to be as many attempts at quantitative critiques of their overall performance. Two evaluations of the Selection Committee’s performance included here offer high marks. They generally do a good job of ranking teams as evidenced by the fact that lower seeded teams generally win more games and have advantageous match-ups. Considering the quality of the committee’s decision-making, aberrations from seed rankings offer us the ability to judge the madness of a tournament. 
+While there is some debate about the quality of the selection committee’s decisions every year, there don’t tend to be as many attempts at quantitative critiques of their overall performance. Two evaluations of the Selection Committee’s performance included here offer high marks in aggregate. They generally do a good job of ranking teams as evidenced by the fact that lower seeded teams generally win more games and have advantageous match-ups. Considering the quality of the committee’s decision-making, aberrations from seed rankings offer us the ability to judge the madness of a tournament. 
 
 ## Footnotes
 ¹ Oklahoma should _not_ have made the tourney this year, Purdue should have been a 1 seed. That is all.
