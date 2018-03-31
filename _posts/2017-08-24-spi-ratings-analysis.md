@@ -115,7 +115,7 @@ ggplot(pairs%>%filter(team.a != team.b & league == 'USA - Major League Soccer'),
 ```
 
 <p align="center">
-  <img src="https://joshyazman.github.io/images/spi-ratings-2017/image3.jpeg#center"/>
+  <img src="https://joshyazman.github.io/images/spi-ratings-2017/image3.png#center"/>
 </p>
 
 # Conclusion
@@ -136,7 +136,7 @@ ggplot(league.sum, aes(med.dif, med.spi, label = league))+
 ```
 
 <p align="center">
-  <img src="https://joshyazman.github.io/images/spi-ratings-2017/image4.jpeg#center"/>
+  <img src="https://joshyazman.github.io/images/spi-ratings-2017/image4.png#center"/>
 </p>
 
 The teams in the top-left quadrant of the Competitiveness by League plot have the highest SPI ratings and the lowest differences between them. Spain’s La Liga, and Germany’s Bundesliga are the most exciting leagues to watch by this criteria. That doesn’t mean there won’t be fun games to watch from the British Premier League or MLS, but the best balances of competition and fun come from Germany and Spain right now.
