@@ -102,11 +102,19 @@ Since betting against the spread can be more lucrative than betting against the 
 
 # Sources
 David Harville, Journal of the American Statistical Association, Vol. 75, №371 (Sep., 1980), pp. 516–524
+
 Lopez and Matthews, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
+
 Yuan et al, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
+
 Gupta, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
+
 Hoegh et al, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
+
 T. Hastie, R. Tibshirani, and J. Friedman. Springer Series in Statistics Springer New York Inc., New York, NY, USA, (2001)
+
 G. James, D. Witten, T. Hastie, R. Tibshirani. Springer Series in Statistics Springer New York Inc., New York, NY, USA (2017)
+
 ¹ All code and data can be found [here](https://github.com/joshyazman/northwestern/tree/master/predict-454/basketball-prediction).
+
 ² Special thanks for Guy Molyneux for suggesting this constraint.
