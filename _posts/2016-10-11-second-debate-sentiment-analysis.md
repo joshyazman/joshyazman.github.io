@@ -3,7 +3,6 @@ layout: post
 title: Sentiment Analysis from the Second Presidential Debate
 ---
 
-# Introduction
 After reading [this](http://varianceexplained.org/r/trump-tweets/) article by David Robinson demonstrating that Donald Trump’s most vitriolic and nasty tweets were coming from his Android while more traditional campaign tweets came from staffers using an iPhone, I’ve been itching for a good excuse to apply Robinson’s sentiment analysis on my own. The second presidential debate offered just such opportunity. All of my code and data are here if you want to follow along at home.
 
 # Who Spoke More?
