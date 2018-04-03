@@ -3,7 +3,6 @@ layout: post
 title: When Can I Start Relying on Basketball Stats?
 ---
 
-# Introduction
 One challenge in predicting basketball outcomes is the unpredictability inherent in college sports. Players get injured or suspended, teams have great nights and off nights, and particularly at the beginning of the season not all match-ups are on the same competitive level.
 
 The law of large numbers indicates that after a certain number of games played, the average of any statistic should trend towards the true average. However, in order to maximize the number of accurate predictions for the season, predictions need to be made as early as it is possible to obtain good, steady projections of predictor variables. The purpose of this post is to determine how many games into the season a forecaster needs to wait in order to make good, stable predictions without sitting out too much of the season.
