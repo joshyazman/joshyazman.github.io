@@ -3,7 +3,6 @@ layout: post
 title: Measuring the Madness
 ---
 
-# Introduction
 UMBC’s historic and dominant upset of UVA in the first round of the 2018 NCAA Men’s Basketball tournament instantly made a case that 2018 was the maddest March Madness ever.
 
 Prior to that game, 1-seeds had won all 135 match-ups against 16-seeds since the tournament adopted it’s current format. Seeds are rankings within the group of teams that make the tournament. A lower seed indicates a judgement by the Selection Committee that a team is better than one with a higher seed. The UMBC game was shocking because a 1-seed should be so much better than a 16 seed that the outcome is pre-ordained. 
