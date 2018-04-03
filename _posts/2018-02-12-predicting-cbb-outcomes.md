@@ -101,20 +101,20 @@ In both regression and classification contexts, tree-based methods beat out shri
 Since betting against the spread can be more lucrative than betting against the money line, one option to predict point spreads could involve applying the fairly good classification models to the best point spread prediction methods. Future research should explore the possibility of iteratively repeating back and forth this process until predictive power diminishes or some threshold is met.
 
 # Sources
-David Harville, Journal of the American Statistical Association, Vol. 75, №371 (Sep., 1980), pp. 516–524
+<p> David Harville, Journal of the American Statistical Association, Vol. 75, №371 (Sep., 1980), pp. 516–524
 
-Lopez and Matthews, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
+<p> Lopez and Matthews, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
 
-Yuan et al, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
+<p> Yuan et al, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
 
-Gupta, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
+<p> Gupta, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
 
-Hoegh et al, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
+<p> Hoegh et al, Journal of Quantitative Analysis in Sports, Volume 11, Issue 1
 
-T. Hastie, R. Tibshirani, and J. Friedman. Springer Series in Statistics Springer New York Inc., New York, NY, USA, (2001)
+<p> T. Hastie, R. Tibshirani, and J. Friedman. Springer Series in Statistics Springer New York Inc., New York, NY, USA, (2001)
 
-G. James, D. Witten, T. Hastie, R. Tibshirani. Springer Series in Statistics Springer New York Inc., New York, NY, USA (2017)
+<p> G. James, D. Witten, T. Hastie, R. Tibshirani. Springer Series in Statistics Springer New York Inc., New York, NY, USA (2017)
 
-¹ All code and data can be found [here](https://github.com/joshyazman/northwestern/tree/master/predict-454/basketball-prediction).
+<p> ¹ All code and data can be found [here](https://github.com/joshyazman/northwestern/tree/master/predict-454/basketball-prediction).
 
-² Special thanks for Guy Molyneux for suggesting this constraint.
+<p> ² Special thanks for Guy Molyneux for suggesting this constraint.
