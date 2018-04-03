@@ -3,8 +3,6 @@ layout: post
 title: Looking Ahead to Virginia in 2017
 date: January 5th 2017
 ---
-
-# Introduction
 One of the first chances Democrats will have to strike back against Trumpism will be the statewide races in Virginia for Governor, Lieutenant Governor, and Attorney General.
 
 One recurring theme in 2016 post-election analysis and punditry has been that Clinton subordinated her economic message to talk about promoting America’s diversity, costing her white working class voters in key states. Much of that analysis is focused on states like Ohio, Pennsylvania, Michigan, and Wisconsin (and is quite possibly [wrong anyways](https://www.vox.com/policy-and-politics/2016/12/16/13972394/most-common-words-hillary-clinton-speech)), but Virginia voted strongly for Hillary Clinton so it’s important to rigorously assess diversity as a part of the political landscape in the commonwealth separately going into 2017.
