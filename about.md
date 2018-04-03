@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p>
-  <img src="https://joshyazman.github.io/images/josh and kzir khan.png#center"/>
+  <img src="https://joshyazman.github.io/images/josh and kzir khan.png#center" width="500" height="600"/>
 </p>
 
 Josh is a data analyst for Slate Magazine in Washington D.C., a lead instructor of Data Analytics at General Assembly, and is involved in several non-profits in the DC area including the Pancreatic Cancer Action Network and the DC Youth Corps. He is also pursuing a Masters in Predictive Analytics from Northwestern University (exp graduation - June 2018). 
