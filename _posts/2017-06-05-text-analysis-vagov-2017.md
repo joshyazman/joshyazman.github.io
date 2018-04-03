@@ -4,7 +4,6 @@ title: Using Text Analysis to Figure Out the VA Governor’s Race
 date: June 5th 2017
 ---
 
-# Introduction
 On June 13th, Virginia voters will nominate candidates for Governor, Lieutenant Governor, Attorney General, and the House of Delegates. Recently the Washington Post published a [feature](https://www.washingtonpost.com/graphics/local/virginia-governor-race/?utm_term=.f2baf8279dcf) with in depth interviews with the five candidates for governor. This is an interesting data source because newspaper profiles allow candidates to present their preferred image with little filter. We also have a somewhat less rich source of text data from the questions asked by reporters that reflect media interest in each campaign.
 
 Text analysis techniques from [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/) by Julia Silge and David Robinson allow us to pick apart the words used in questions and responses that most closely align with each candidate.
