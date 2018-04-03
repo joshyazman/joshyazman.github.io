@@ -4,7 +4,6 @@ title: Examining FiveThirtyEight’s Soccer Power Index Ratings
 date: June 5th 2017
 ---
 
-# Introduction
 FIveThirtyEight recently released their newest batch of soccer power index (SPI) ratings for over 400 soccer teams around the world. I don’t know much about soccer, but I love data and enjoy the occasional game when it’s on, so I copied the scores into an Excel file, cleaned up the data a bit and loaded it into R to see what I could learn! Code for preparing the data and visuals is included below.
 
 # Preparing the data
