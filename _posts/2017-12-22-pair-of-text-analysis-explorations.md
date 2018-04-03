@@ -3,7 +3,6 @@ layout: post
 title: A Pair of Text Analysis Explorations
 ---
 
-# Introduction
 After about a year of learning text analysis techniques from Text Mining with R ([Silge and Robinson 2017](https://www.tidytextmining.com/)) I had two big questions that I wanted to explore. First, the `tidytext` R package taught in Silge and Robinsons’s book has four different ways of measuring polarity (positivity) of text. Robinson wrote a blog post validating the performance of one method and I’ve extended his analysis to compare all four models to one another. Second, how much text do we need to provide reliable sentiment estimates?
 
 # Comparing Sentiment Lexicons
