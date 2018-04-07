@@ -2,6 +2,10 @@
 layout: post
 title: Predicting Charitable Contributions with Gradient Tree Boosting
 ---
+<p>
+  <img src="https://joshyazman.github.io/images/charitable-predictions/image4.png#center"/>
+</p>
+
 Excessive overhead spending has long been seen as a cardinal sin for charitable organizations. Money spent on corporate salaries and donor outreach is a key part of how charities are evaluated by organizations like [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1284) who signal to donors that certain organization are worthy of their dollars. One way to reduce overhead is to boost the efficiency of donor outreach by limiting outreach to those most likely to donate to your organization. This post demonstrates the use of tree-based methods for predicting donor likelihood for a fictional charity ([code](https://github.com/joshyazman/medium-posts/tree/master/predicting-charitable-donations)).
 
 # The Data
