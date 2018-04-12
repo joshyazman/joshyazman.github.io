@@ -27,3 +27,12 @@ There are two alternatives to MRP that I've seen in industry and literature. Fir
   
 One other approach I've seen in industry is to survey groups of sub-groups. For example, I worked on a poll of congressional districts in 2016 where the lead analyst first decided to cluster districts in three groups based on their competitiveness and some consideration for their demographic characteristics. Then we fielded essentially three separate surveys. That job was almost certainly more expensive than it needed to be for the client and more labor intensive for the analyst for several of the reasons enumerated above. A better approach would have been to field a national survey and use MRP to produce district-level estimates.
 
+
+# Getting Started
+There were a couple of technical issues I encountered in the MRP modeling process. First, the `dgo` package[^2] did not work in `R` version `3.4.4` so I had to revert to `3.3.3`. I attempted this process on both Mac and PC machines and for whatever reason it just didn't work at all on Mac. Second, due to some bandwidth issues on my PC, I was only able to get the code to execute at all with a maximum of four predictor variables and one poststratification variable. That's a serious limitation!
+
+Beyond the technical difficulties, the next step is to gather data from the CCES data and select regressors. We also use the `tidycensus` package to download census data, which we'll use in a future step as the source of truth to which we weight our survey responses.
+
+
+[^1]: 
+[^2]: Thanks to [Jonathan Robinson](https://jonrobinson2.github.io/) for the package recommendation!
