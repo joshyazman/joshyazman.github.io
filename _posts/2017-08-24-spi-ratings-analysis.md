@@ -9,7 +9,7 @@ FIveThirtyEight recently released their newest batch of soccer power index (SPI)
 # Preparing the data
 First, I read the data into R. Then I looped through each unique league and calculated the pairwise difference in SPI for each league. Finally, I combined all of the individual league data frames into one.
 
-`
+```
 # Make this your working directory
 setwd('your/working-directory/here')
 # yaz_theme.r loads the dplyr and ggplot packages as well as a formatting function for my own ggplot theme and color scheme
@@ -37,7 +37,7 @@ for(i in seq(1, length(leagues))){
 }
 pairs <- bind_rows(pair.dfs)%>%
   filter(team.a != team.b)
-`
+```
 
 # Overall Competitiveness
 The first metric I want to look at is overall competitiveness of each league by examining distributions of pair-wise differences in SPI. To visualize this, I used a ridgeline plot from the ggridges package which stacks distribution plots broken out by category on top of one another. Major League Soccer in the US appears to have a normal distribution where most teams have similar SPIs and just a few teams are really terrible or really great. On the contrary, Italy’s Serie A and the British Premier League have much broader distributions of scores. There are some really bad teams and some fantastic teams! Overall, almost every league appears to center around fairly small pairwise SPI differences.
