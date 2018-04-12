@@ -7,15 +7,17 @@ permalink: /about/
   <img src="https://joshyazman.github.io/images/josh and kzir khan.png#center" width="300" height="300"/>
 </p>
 
-Josh is a data analyst for Slate Magazine in Washington D.C., a lead instructor of Data Analytics at General Assembly, and is involved in several non-profits in the DC area including the Pancreatic Cancer Action Network and the DC Youth Corps. He is also pursuing a Masters in Predictive Analytics from Northwestern University (exp graduation - June 2018). 
+I'm Slate Magazine's data analyst, a lead instructor of Data Analytics at General Assembly in Washington D.C., and I'm involved with several non-profits in the DC area including the Pancreatic Cancer Action Network and the DC Youth Corps. I'm also pursuing a Masters in Predictive Analytics from Northwestern University (exp graduation - June 2018). 
 
-Areas of expertise include AB testing, experimental program management, survey research, grassroots political organizing, and data visualization. He is particularly interested in text analysis, data visualization and communication, data analysis eductation, and solving tough problems through data analysis.
+My areas of expertise include AB testing, experimental program management, survey research, grassroots political organizing, and data visualization. I'm currently obsessed with text analysis, data visualization and communication, data analysis eductation, and learning new statistical methods.
 
 # Contact me
 
 [joshyazman@gmail.com](mailto:joshyazman@gmail.com)
 
 [twitter](https://twitter.com/jyazman2012)
+
+[resume](https://drive.google.com/file/d/0BzcIEunjlkhhSERJMVUxU3hueG8/view?usp=sharing)
 
 # External Publications
 ## Slate's _The Works_
