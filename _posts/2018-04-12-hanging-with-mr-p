@@ -1,0 +1,29 @@
+---
+layout: post
+title: Adventures Attempting MRP Models
+---
+
+Polling individual states can be notoriously difficult and costly for political candidates and non-profits attempting to measure public opinion. States like Alaska can be difficult to poll because of how remote communities can be while states like Virginia can be much easier to poll because it's easier to recruit a representative sample to take a survey. One option for solving this problem is a modeling method called multilevel regression with poststratification (MRP) which allows researchers to use a national survey to estimate state-level opinion. 
+
+Over the past couple of weeks, inspired in large part by some of the great work coming out of [Data for Progress](https://www.dataforprogress.org/) as well as my own curiosity, I've attempted to build an MRP model estimating state-level support for an assault weapons ban. The model isn't perfect for a variety of reasons I'll get into below, but the code and set-up steps should be useful for other projects that may have better outcomes!
+
+# Who Spoke More?
+One of the immediate arguments after each debate is who got to speak more. Luckily just about every media outlet tracked this and determined that speaking time was almost identical with a slight [edge for Trump](https://www.politico.com/story/2016/10/2016-presidential-debate-speaking-times-229502).
+
+Another way of looking at speaking time is to look at the length of each response. The average word count (illustrated by the diamond on the plot below) was much higher for Clinton than Trump because his responses tended to be short and frequent.
+
+# What is MRP and Why Would I Want to Use It?
+MRP stands for multilevel regression with post-stratification. The process has two steps. First, we use a hierarchical linear model to model the preferences of individual respondents based on individual and sub-group level characteristics[^1].  
+
+After the initial modeling step, each respondent's preferences are weighted to the broader characteristics of their subgroup. For example, if we know that Virginia is 53% female but 60% of survey respondents are male, we count male responses slightly less and we count female responses slightly more. The individual characteristics used in the model should be characteristics available from a single source of truth at the subgroup level. For example, we wouldn't want to measure justification for military conflict based on a respondent's approval of Bernie Sanders because when we go to poststratify responses we won't have a reliable way to determine what support for Bernie Sanders should look like on the sub-group level.
+
+The result is a set of estimates valid at the sub-group level without the expense of individual surveys in each sub-group (or even clusters of sub-groups). This guide uses national survey data from the Cooperative Congressional Elections Survey to estimate the percentage of voting age residents in each state who generally do not support foreign military interventions for any of a variety of reasons. 
+
+# Alternatives to MRP
+There are two alternatives to MRP that I've seen in industry and literature. First is disaggregation of many surveys. In a single national survey, we may only get a handful of responses from Wyoming, but if we pool the data from 25 national surveys together we'd have maybe 100 Alaska responses. This approach intuitively makes sense, but has a few problems:
+  * What if we don't have 25 national surveys on a particular topic? If Mike Pence came out as gay tomorrow, there would no doubt be a flurry of polls fielded on the topic, but pollsters would have to agree to share their data to disaggregate the data for each state. 
+  * A similar problem with pooling multiple surveys is that some old surveys may need to be included to get a sufficient sample size. My example analyzing opinions on the use of military force could be seriously skewed by changes in the partisan environment. Voters who trusted President Obama to use military force would have been less likely to oppose military action in the 2016 pre-election CCES wave, but more likely to oppose military force for any reason in the post-election wave once they knew Donald Trump would be in charge. 
+  * Even if you have a large enough survey to have a decent sample size in each sub-group, as the CCES has enough respondents to disaggregate to the state level, a researcher would have to then weight each subgroup's responses separately to produce valid estimates. Weighting one survey is a labor-intensive and challenging process, but weighting 50 surveys manually is labor-prohibitive and error-prone. MRP handles this challenge programtically. 
+  
+One other approach I've seen in industry is to survey groups of sub-groups. For example, I worked on a poll of congressional districts in 2016 where the lead analyst first decided to cluster districts in three groups based on their competitiveness and some consideration for their demographic characteristics. Then we fielded essentially three separate surveys. That job was almost certainly more expensive than it needed to be for the client and more labor intensive for the analyst for several of the reasons enumerated above. A better approach would have been to field a national survey and use MRP to produce district-level estimates.
+
