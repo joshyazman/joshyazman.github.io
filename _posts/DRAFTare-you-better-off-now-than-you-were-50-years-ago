@@ -1,0 +1,45 @@
+---
+layout: post
+title: Are You Better Off Now Than You Were 50 Years Ago?
+---
+
+On July 2, 1964, Lyndon Johnson sat down in front of an array of leaders in Congress and the Civil Rights movement to sign the Civil Rights Act of 1964. The law, he acknowledged, would turn the South Republican for a generation, but it was too important not to sign. He said that because he knew southern white voters would feel a sense of loss as their black and brown neighbors gained rights and status in the country and that they would blame Democrats for stripping away their supremacy. LBJ was spot on, and the Civil Rights Act was not the only instance of societal change since then. Women have gained increased rights to make their own healthcare decisions, LGBT Americans have gained increasing acceptance in society, and the Vietnam War effectively brought an end to the military draft. We’ve also seen massive shifts in economic dynamics in terms of automation and globalization. At each major milestone there were people who saw progress and felt left behind and people who saw progress and felt more free. 
+
+Alan Abromowitz's new book ["The Great Alignment"](https://yalebooks.yale.edu/book/9780300207132/great-alignment) asserts that one of the best ways to differentiate between Republicans and Democrats is to measure the degree to which a person feels that things have gotten better for people like them in the last 50 years. The positivity or negativity of reaction to the progress of the last half century is a really intriguing dichotomy to me. So I dug into the Pew 2018 Typography survey to learn more about people on either side of that question. 
+
+Among other questions, the survey offers respondents a series of choices between sets of statements. For example, a respondent may be asked to choose between the following two statements:
+* Survey research is a fun and worthy endeavor
+* Surveys are boring and nobody likes them
+
+The results reveal a lot about the people answering them. Many questions appear to have broadly similar outcomes, but differing degrees of support for certain statements. Others illustrate polar opposite sets of opinions. There are two sets of attitudes I want to explore: attitudes towards immigrants and attitudes on economic issues. 
+
+# Who Spoke More?
+One of the immediate arguments after each debate is who got to speak more. Luckily just about every media outlet tracked this and determined that speaking time was almost identical with a slight [edge for Trump](https://www.politico.com/story/2016/10/2016-presidential-debate-speaking-times-229502).
+
+Another way of looking at speaking time is to look at the length of each response. The average word count (illustrated by the diamond on the plot below) was much higher for Clinton than Trump because his responses tended to be short and frequent.
+
+<p>
+  <img src="https://joshyazman.github.io/images/second-debate-plots/second-debate-image1.png#center"/>
+</p>
+
+
+
+The low word-count responses are probably pumped up by Trump’s 44 interruptions (like response 18: “I’d like to respond to that. I assume I can.”) which were each coded as separate responses. Clinton’s responses were more evenly distributed across a variety of word counts, likely because her remarks tend to be prepared and measured and she interrupted far less often than Trump.
+
+# What Sentiments Did Candidates Express Most?
+Next I matched the words in the transcript to the [NRC emotion lexicon](http://www.aclweb.org/anthology/W10-0204) to determine sentiments of candidate responses. Overall, Clinton was much more positive than Trump and tended to use words that evoke trust, joy, and anticipation more often. Conversely, Trump was more negative and used words that evoke surprise, sadness, fear, disgust, and anger.
+
+<p align="center">
+  <img src="https://joshyazman.github.io/images/second-debate-plots/second-debate-image2.png#center"/>
+</p>
+
+But at my debate watch party, attendees didn’t seem to walk away feeling the way the aggregate sentiments might suggest. Perhaps that’s because Clinton started off more positive and finished the debate on a more negative note (and opposite for Trump) as the following series of charts suggests.
+
+<p align="center">
+  <img src="https://joshyazman.github.io/images/second-debate-plots/second-debate-image3.png#center"/>
+</p>
+
+# Why Does This Matter?
+The tone of the debate, much like the rest of the campaign this year, was not particularly uplifting. What this data demonstrates is that the negativity isn’t evenly distributed across both candidates. While Trump ended on a positive note, he also admitted to tax evasion, riffed on how Muslims don’t do enough to keep us safe, and offered a roundly panned response for the video in which he brags about getting away with sexual assault. Clinton certainly attacked Trump (on many of those very comments) but her overall tone was much more positive than his.
+
+I’ll be watching the third debate and maybe posting a similar article about, but let’s be real — we’re all just waiting to hear the acceptance/concession speeches and be done with it all.
