@@ -18,7 +18,7 @@ The results reveal a lot about the people answering them. Many questions appear 
 First, it’s worth looking at the overall results to the question of whether the past 50 years has made life better, worse, or about the same. A statistically similar number of people say life has gotten better as say life has gotten worse with the remainder saying life is about the same. 
 
 <p>
-  <img src="https://joshyazman.github.io/images/joshyazman.github.io/images/better-or-worse-images/image1.png#center"/>
+  <img src="https://joshyazman.github.io/images/better-or-worse-images/image1.png#center"/>
 </p>
 
 People who think life has gotten worse tend to be more likely to regularly attend religious services, skew older, and are more likely to be male - all demographics we typically associate with conservatives and Republicans. 
@@ -31,7 +31,7 @@ In one question, survey respondents are asked to pick between the following two 
   2. Immigrants today are a burden on our country because they take our jobs, housing, and healthcare
 
 <p>
-  <img src="https://joshyazman.github.io/images/joshyazman.github.io/images/better-or-worse-images/image2.png#center"/>
+  <img src="https://joshyazman.github.io/images/better-or-worse-images/image2.png#center"/>
 </p>
 
 A large majority of Americans have a positive view of the role immigrants play in society. In fact, each group of respondents has a net positive view of immigrants. But among those who view the last 50 years as positive, 68-73% also view immigrants positively compared to just 54-59% of those who view the past 50 years as negative. 
@@ -46,7 +46,7 @@ Starting with government regulation, respondents are asked to pick between the f
   2. Government regulation of business usually does more harm than good. 
   
 <p>
-  <img src="https://joshyazman.github.io/images/joshyazman.github.io/images/better-or-worse-images/image3.png#center"/>
+  <img src="https://joshyazman.github.io/images/better-or-worse-images/image3.png#center"/>
 </p>
 
 Those who view the past 50 years negatively are significantly more likely to believe that government regulation does more harm than good (48-58% compared to 41-47%) while those who view the past 50 years positively strongly support government regulation (53-59% compared to 36-42%).
@@ -59,7 +59,7 @@ On poverty, respondents are asked to choose between the following statements:
   2. Poor people have hard lives because government benefits don't go far enough to help them live decently
 
 <p>
-  <img src="https://joshyazman.github.io/images/joshyazman.github.io/images/better-or-worse-images/image4.png#center"/>
+  <img src="https://joshyazman.github.io/images/better-or-worse-images/image4.png#center"/>
 </p>
 
 All groups of respondents generally express empathy for the poor, but those who think life has gotten better in the past 50 years are less likely to do so than those who think life has gotten worse (45-51% and 49-56% respectively). Notably, people who don't think life hasn’t gotten any better or worse express significantly more sympathy for the poor (56-65%).
@@ -70,7 +70,7 @@ Similarly, all groups of respondents believe corporate profits are excessive, bu
   2. Most corporations make a fair and reasonable amount of profit
 
 <p>
-  <img src="https://joshyazman.github.io/images/joshyazman.github.io/images/better-or-worse-images/image5.png#center"/>
+  <img src="https://joshyazman.github.io/images/better-or-worse-images/image5.png#center"/>
 </p>
 
 Among those who think life has gotten better, more think corporations make too much profit (42-48%) while fewer think companies make a fair and  reasonable amount of profit (30-35%). But reactions are more severe among those who view the past 50 years as  negative or neutral. Among people who think the past 50 years made life in America worse, a strong majority (63-69%) think corporations make too much profit compared to the minority (26-32%) who think corporate profits are fair and reasonable. Similarly, among those with a neutral view of the past 50 years, almost as many voters (57-66%) say corporate profits are unfairly hight.
@@ -80,7 +80,7 @@ The last question I’ll dig into is one of the sadder ones:
   2. Hard work and determination are no guarantee of success for most people
   
 <p>
-  <img src="https://joshyazman.github.io/images/joshyazman.github.io/images/better-or-worse-images/image6.png#center"/>
+  <img src="https://joshyazman.github.io/images/better-or-worse-images/image6.png#center"/>
 </p>
 
 Again, a large majority of Americans believe in the efficacy of hard work, but there is a significant difference in that belief based on perceptions of change in the last 50 years. Those who think life has gotten better are significantly more likely to believe that hard work pays off (63-69%) compared to those who think life has gotten worse (48-54%). Those who think life hasn't gotten much better or much worse are in the middle for this question as well with 53-62% expressing faith in the efficacy of hard work.
