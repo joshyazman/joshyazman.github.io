@@ -15,7 +15,7 @@ Among other questions, the survey offers respondents a series of choices between
 The results reveal a lot about the people answering them. Many questions appear to have broadly similar outcomes, but differing degrees of support for certain statements. Others illustrate polar opposite sets of opinions. There are two sets of attitudes I want to explore: attitudes towards immigrants and attitudes on economic issues. 
 
 ## Overall
-First, it’s worth looking at the overall results to the question of whether the past 50 years has made life better, worse, or about the same. A statistically similar number of people say life has gotten better as say life has gotten worse with the remainder saying life is about the same. 
+First, it’s worth looking at the overall results to the question of whether the past 50 years has made life better, worse, or about the same. A statistically similar[^1] number of people say life has gotten better as say life has gotten worse with the remainder saying life is about the same. 
 
 <p>
   <img src="https://joshyazman.github.io/images/better-or-worse-images/image1.png#center"/>
@@ -86,4 +86,6 @@ The last question I’ll dig into is one of the sadder ones:
 Again, a large majority of Americans believe in the efficacy of hard work, but there is a significant difference in that belief based on perceptions of change in the last 50 years. Those who think life has gotten better are significantly more likely to believe that hard work pays off (63-69%) compared to those who think life has gotten worse (48-54%). Those who think life hasn't gotten much better or much worse are in the middle for this question as well with 53-62% expressing faith in the efficacy of hard work.
 
 ## Conclusion
-The past 50 years have seen accelerated progress in race relations and a host of other aspects of American culture. Those changes have been paired with increases in economic efficiency driven by companies innovating technologically and automating massive segments of the American workforce. Some people feel like our changing culture and economy are positive improvements for American life and others feel like societal change has made life worse. Their differences are well illustrated by their views on immigration and economic issues.
+The past 50 years have seen accelerated progress in race relations and a host of other aspects of American culture. Those changes have been paired with increases in economic efficiency driven by companies innovating technologically and automating massive segments of the American workforce. Some people feel like our changing culture and economy are positive improvements for American life and others feel like societal change has made life worse. Divergent views on immigration and economic issues highlight the differences between them.
+
+[^1]: Error bars (in maroon) represent 95% confidence intervals calculated from 1,000 bootstrap samples of the weighted survey data.
