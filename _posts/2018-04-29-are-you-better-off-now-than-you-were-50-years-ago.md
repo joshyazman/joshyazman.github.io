@@ -15,7 +15,7 @@ Among other questions, the survey offers respondents a series of choices between
 The results reveal a lot about the people answering them. Many questions appear to have broadly similar outcomes, but differing degrees of support for certain statements. Others illustrate polar opposite sets of opinions. There are two sets of attitudes I want to explore: attitudes towards immigrants and attitudes on economic issues. 
 
 ## Overall
-First, it’s worth looking at the overall results to the question of whether the past 50 years has made life better, worse, or about the same. A statistically similar[^1] number of people say life has gotten better as say life has gotten worse with the remainder saying life is about the same. 
+First, it’s worth looking at the overall results to the question of whether the past 50 years has made life better, worse, or about the same. A statistically similar [^1] number of people say life has gotten better as say life has gotten worse with the remainder saying life is about the same. 
 
 <p>
   <img src="https://joshyazman.github.io/images/better-or-worse-images/image1.png#center"/>
