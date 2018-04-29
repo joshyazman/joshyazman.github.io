@@ -8,38 +8,22 @@ On July 2, 1964, Lyndon Johnson sat down in front of an array of leaders in Cong
 Alan Abromowitz's new book ["The Great Alignment"](https://yalebooks.yale.edu/book/9780300207132/great-alignment) asserts that one of the best ways to differentiate between Republicans and Democrats is to measure the degree to which a person feels that things have gotten better for people like them in the last 50 years. The positivity or negativity of reaction to the progress of the last half century is a really intriguing dichotomy to me. So I dug into the Pew 2018 Typography survey to learn more about people on either side of that question. 
 
 Among other questions, the survey offers respondents a series of choices between sets of statements. For example, a respondent may be asked to choose between the following two statements:
-* Survey research is a fun and worthy endeavor
-* Surveys are boring and nobody likes them
+
+  1. Survey research is a fun and worthy endeavor
+  2. Surveys are boring and nobody likes them
 
 The results reveal a lot about the people answering them. Many questions appear to have broadly similar outcomes, but differing degrees of support for certain statements. Others illustrate polar opposite sets of opinions. There are two sets of attitudes I want to explore: attitudes towards immigrants and attitudes on economic issues. 
 
-# Who Spoke More?
-One of the immediate arguments after each debate is who got to speak more. Luckily just about every media outlet tracked this and determined that speaking time was almost identical with a slight [edge for Trump](https://www.politico.com/story/2016/10/2016-presidential-debate-speaking-times-229502).
-
-Another way of looking at speaking time is to look at the length of each response. The average word count (illustrated by the diamond on the plot below) was much higher for Clinton than Trump because his responses tended to be short and frequent.
+# Overall
+First, it’s worth looking at the overall results to the question of whether the past 50 years has made life better, worse, or about the same. A statistically similar number of people say life has gotten better as say life has gotten worse with the remainder saying life is about the same. 
 
 <p>
-  <img src="https://joshyazman.github.io/images/second-debate-plots/second-debate-image1.png#center"/>
+  <img src="https://joshyazman.github.io/images/joshyazman.github.io/images/better-or-worse-images/image1.png#center"/>
 </p>
 
+People who think life has gotten worse tend to be more likely to regularly attend religious services, skew older, and are more likely to be male - all demographics we typically associate with conservatives and Republicans. 
+Immigration
+In one question, survey respondents are asked to pick between the following two statements:
 
-
-The low word-count responses are probably pumped up by Trump’s 44 interruptions (like response 18: “I’d like to respond to that. I assume I can.”) which were each coded as separate responses. Clinton’s responses were more evenly distributed across a variety of word counts, likely because her remarks tend to be prepared and measured and she interrupted far less often than Trump.
-
-# What Sentiments Did Candidates Express Most?
-Next I matched the words in the transcript to the [NRC emotion lexicon](http://www.aclweb.org/anthology/W10-0204) to determine sentiments of candidate responses. Overall, Clinton was much more positive than Trump and tended to use words that evoke trust, joy, and anticipation more often. Conversely, Trump was more negative and used words that evoke surprise, sadness, fear, disgust, and anger.
-
-<p align="center">
-  <img src="https://joshyazman.github.io/images/second-debate-plots/second-debate-image2.png#center"/>
-</p>
-
-But at my debate watch party, attendees didn’t seem to walk away feeling the way the aggregate sentiments might suggest. Perhaps that’s because Clinton started off more positive and finished the debate on a more negative note (and opposite for Trump) as the following series of charts suggests.
-
-<p align="center">
-  <img src="https://joshyazman.github.io/images/second-debate-plots/second-debate-image3.png#center"/>
-</p>
-
-# Why Does This Matter?
-The tone of the debate, much like the rest of the campaign this year, was not particularly uplifting. What this data demonstrates is that the negativity isn’t evenly distributed across both candidates. While Trump ended on a positive note, he also admitted to tax evasion, riffed on how Muslims don’t do enough to keep us safe, and offered a roundly panned response for the video in which he brags about getting away with sexual assault. Clinton certainly attacked Trump (on many of those very comments) but her overall tone was much more positive than his.
-
-I’ll be watching the third debate and maybe posting a similar article about, but let’s be real — we’re all just waiting to hear the acceptance/concession speeches and be done with it all.
+  1. Immigrants today strengthen our country because of their hard work and talents
+  2. Immigrants today are a burden on our country because they take our jobs, housing, and healthcare
