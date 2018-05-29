@@ -7,7 +7,7 @@ permalink: /about/
   <img src="https://joshyazman.github.io/images/josh and kzir khan.png#center" width="300" height="300"/>
 </p>
 
-I'm a campaign strategist at BlueLabs Analytics, a lead instructor of Data Analytics at General Assembly in Washington D.C., and I'm involved with several non-profits in the DC area including the [Pancreatic Cancer Action Network](https://secure.pancan.org/site/SPageServer/?pagename=purplestride_home) and the DC Youth Corps. I'm also pursuing a Masters in Predictive Analytics from Northwestern University (exp graduation - June 2018). 
+I'm a campaign strategist at BlueLabs Analytics, a lead instructor of Data Analytics at General Assembly in Washington D.C., and I'm involved with several non-profits in the DC area including the [Pancreatic Cancer Action Network](https://secure.pancan.org/site/SPageServer/?pagename=purplestride_home) and the DC Youth Corps. I'm also pursuing a Masters in Predictive Analytics from Northwestern University (exp graduation in 2018). 
 
 My areas of expertise include experimental program management, survey research, grassroots political organizing, and data visualization. I'm currently obsessed with text analysis, data visualization and communication, data analysis eductation, and attempting to learn Spanish.
 
