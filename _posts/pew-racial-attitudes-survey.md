@@ -3,7 +3,7 @@ layout: post
 title: We All Think We're More Racially Just Than The Rest of the Country
 ---
 
-Americans don't like to think of ourselves as racists - even when we acknowledge the existence of racism in the country. That's not terribly controversial, but some data[^1] published by the Pew Research Center in 2016 illustrates the divide by asking a battery of questions about areas where blacks are treated unfairly compared to whites. Half of respondents were asked about racism in their own communities and half were asked about racism in the country as a whole. This post doesn't go so far as to assign causality to differences in perceptions of racial unfairness, the differences between each measure are an interesting look at how people perceive race in their lives.
+Americans don't like to think of ourselves as racists - even when we acknowledge the existence of racism in the country. That's not terribly controversial, but some data¹ published by the Pew Research Center in 2016 illustrates the divide by asking a battery of questions about areas where blacks are treated unfairly compared to whites. Half of respondents were asked about racism in their own communities and half were asked about racism in the country as a whole. This post doesn't go so far as to assign causality to differences in perceptions of racial unfairness, the differences between each measure are an interesting look at how people perceive race in their lives.
 
 ## Overall Results
 While there is generally heightened awareness that black Americans are treated less fairly in the criminal justice system and mortgage industry, people perceive lower levels of racism in the workplace, stores and restaurants, and in voting. 
@@ -58,5 +58,6 @@ Unsurprisingly, more conservative Americans are less likely to to think black Am
 ## Conclusion
 One clear pattern in this survey is that Americans see their own communities in a much rosier light than the nation as a whole. Maybe this means people are willing to acknowledge that racial unfairness exists, but don't want to take responsibility for it, as in the case of white Americans' perceptions of the criminal justice system. Maybe these feelings are justified, like regional perceptions of racial unfairness in voting systems. Much more in depth research is necessary to unpack the causes of the patterns presented in this post. But these differences are interesting in their own right as a window into how people see themselves relative to their fellow citizens when it comes to racial justice.
 
-[^1] Pew Research Center conducted a survey on American racial attitudes including 3,769 U.S. adults (1,799 non-Hispanic whites, 1,004 non-Hispanic blacks and 654 Hispanics). 
-[^2] All error bars are calculated as 90% confidence intervals using 500 bootstrap samples to produce estimates.
+¹ Pew Research Center conducted a survey on American racial attitudes including 3,769 U.S. adults (1,799 non-Hispanic whites, 1,004 non-Hispanic blacks and 654 Hispanics). 
+
+Note: All error bars are calculated as 90% confidence intervals using 500 bootstrap samples to produce estimates.
