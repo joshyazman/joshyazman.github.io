@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We All Think We're More Racially Just Than The Rest of the Country
+title: Differences in Perceptions of Racial Fairness at the Community and National Levels
 ---
 
 Americans don't like to think of ourselves as racists - even when we acknowledge the existence of racism in the country. That's not terribly controversial, but some data¹ published by the Pew Research Center in 2016 illustrates the divide by asking a battery of questions about areas where blacks are treated unfairly compared to whites. Half of respondents were asked about racism in their own communities and half were asked about racism in the country as a whole. This post doesn't go so far as to assign causality to differences in perceptions of racial unfairness, the differences between each measure are an interesting look at how people perceive race in their lives.
