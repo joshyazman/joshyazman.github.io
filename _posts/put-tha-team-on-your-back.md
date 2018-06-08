@@ -1,3 +1,9 @@
+---
+layout: post
+title: He Who Puts the Team On Their Back
+date: June 8th 2018
+---
+
 One of the more common arguments of player greatness is to simply ask who has the most championship rings. It's a natural starting place, because only a fraction of the players who have donned NBA Jerseys have won even one championship and only about 60% of them played during their playoff runs. 
 
 But solely using ring count as a metric for greatness has some obvious flaws too. For example, Derek Fisher was a fantastic point guard and I still remember being amazed by his [buzzer beating shot against the Spurs in 2004 with 0.4 seconds left in the game](https://www.sbnation.com/nba/2018/6/4/17424628/derek-fisher-buzzer-beater-rewinder-lakers-spurs), but he has five NBA championship rings. That puts him on par with Magic Johnson, Dennis Rodman, Kobe Bryant and Tim Duncan. Robert Horry has more rings than any one player in NBA since 1980, but you never hear his name mentioned with Michael Jordan or LeBron James with good reason.
