@@ -20,7 +20,7 @@ Figure 1a illustrates the difference in top-of-ticket turnout when races are con
 Figure 1b displays the same distribution for House of Delegates races. Down-ballot roll-off (where voters show up for the top of the ticket but abstain from voting in local races) was much more severe in places without a contested house race, which suggests house races were turning out voters that wouldn’t necessarily turn out in other districts.
 
 <p> 
-  <img src="https://joshyazman.github.io/images/reverse-coattails-vagov2017/image1.png#center"/>
+  <img src="https://joshyazman.github.io/images/reverse-coattails-vagov2017/image2.png#center"/>
 </p>
 
 # What Would Happen Without HoD Races?
