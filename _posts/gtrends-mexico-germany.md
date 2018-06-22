@@ -32,3 +32,21 @@ mex_ger <- gtrends(keyword = c('Mexico','Germany'),
 plot_cap <- 'Source: Google Trends\nJosh Yazman (@jyazman2012)'
 ```
 
+<p> 
+  <img src="https://joshyazman.github.io/images/gtrends-mex-ger/In Game Search Interest for Mexico by State.png#center"/>
+</p>
+<p> 
+  <img src="https://joshyazman.github.io/images/gtrends-mex-ger/Relationship Between Mexican Pop. Density and Search Interest.png#center"/>
+</p>
+<p> 
+  <img src="https://joshyazman.github.io/images/gtrends-mex-ger/Rising Related Searches.png#center"/>
+</p>
+<p> 
+  <img src="https://joshyazman.github.io/images/gtrends-mex-ger/Search Interest Gap by Minute- Mexico vs. Germany.png#center"/>
+</p>
+<p> 
+  <img src="https://joshyazman.github.io/images/gtrends-mex-ger/Search Interest by Minute- Mexico vs. Germany.png#center"/>
+</p>
+<p> 
+  <img src="https://joshyazman.github.io/images/gtrends-mex-ger/Top Related Searches.png#center"/>
+</p>
