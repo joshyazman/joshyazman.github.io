@@ -42,7 +42,7 @@ The smallest gaps between community and national perceptions of unfairness towar
 </p>
 
 ## Ideology
-Unsurprisingly, more conservative Americans are less likely to to think black Americans are treated unfairly across all six scenarios. The real interesting difference is in the consistency of views among those with stronger ideologies. Conservatives feel that racial unfairness is rare in their communities 
+Unsurprisingly, more conservative Americans are less likely to to think black Americans are treated unfairly across all six scenarios. The real interesting difference is in the consistency of views among those with stronger ideologies. Conservatives feel that racial unfairness is rare in their communities _and_ rare in the country as a whole while very liberal respondents see racial unfairness in both areas. Those in the middle fit the initial pattern of feelign that racism is more of a problem in the country than in the community. 
 
 <p>
   <img src="https://joshyazman.github.io/images/pew-racial-attitudes/ideology.png#center"/>
