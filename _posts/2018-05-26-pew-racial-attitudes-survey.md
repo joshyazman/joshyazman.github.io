@@ -30,13 +30,6 @@ Age differentials are less severe, though still evident. Most age groups follow 
   <img src="https://joshyazman.github.io/images/pew-racial-attitudes/age.png#center"/>
 </p>
 
-## Age
-Age differentials are less severe, though still evident. Most age groups follow similar patterns of belief that their communities are less unfair to black people than the country as a whole. The main difference here comes from the baseline perception of unfairness. Younger citizens are more likely to feel blacks are treated unfairly across the board than older citizens.
-
-<p>
-  <img src="https://joshyazman.github.io/images/pew-racial-attitudes/age.png#center"/>
-</p>
-
 ## Geography
 Regional differences exist, but are not as stark as I expected. The Northeast and West hold fairly high opinions of themselves compared to the rest of the country, which may or may not be justified by real world evidence. 
 
