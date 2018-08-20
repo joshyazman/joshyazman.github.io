@@ -31,6 +31,6 @@ Probably not. In fact, if we hold vote share constant and reduce turnout by 3.5%
 # Conclusion
 Does this mean we shouldn’t bother to run candidates all over the commonwealth? Absolutely not. Even if the reverse coattails effect is minimal for the top of the ticket, Democrats won 15 (maybe 16!) seats in the House of Delegates, virtually erasing the overwhelming Republican majority that had been a fixture in Virginia politics for years. Many of the winners in these house races came from districts that wouldn’t have appeared on many lists of targeted races a year ago. By running everywhere and driving up turnout in competitive precincts, Democratic house candidates may not have boosted Ralph Northam’s prospects, but they did demonstrate many other benefits to running candidates across the commonwealth.
 
-¹Code for all above data collection and presentation is here.
+¹Code for all above data collection and presentation is [here](https://github.com/joshyazman/medium-posts/tree/master/reverse-coattails-2017hod).
 
 ² This estimate is almost certainly too high in real life, but for the sake of dispelling the idea of reverse coattails, overestimating the turnout effect of downballot competition without finding a corresponding advantage for the top of the ticket only bolsters the argument that reverse coattails were not a factor in the governor’s race.
