@@ -44,9 +44,8 @@ Cosine similarity analyzes text as vectors of word counts within a document (ie:
 Consider the following example comparing the below Tweet from Kamala Harris with a chyron from CNN:
 
 <p>
-  <img src="https://github.com/joshyazman/joshyazman.github.io/blob/master/images/message-framing/harris-tweet-orourke-chyron-ex.png #center"/>
+  <img src="https://github.com/joshyazman/joshyazman.github.io/blob/master/images/message-framing/harris-tweet-orourke-chyron-ex.png#center"/>
 </p>
-
 
 Step 1 of cosine similarity asks us to convert each piece of text into lists of how often each word us used.
 
