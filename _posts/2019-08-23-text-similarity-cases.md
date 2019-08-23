@@ -44,19 +44,19 @@ Cosine similarity analyzes text as vectors of word counts within a document (ie:
 Consider the following example comparing the below Tweet from Kamala Harris with a chyron from CNN:
 
 <p>
-  <img src="https://github.com/joshyazman/joshyazman.github.io/blob/master/images/message-framing/harris-tweet-orourke-chyron-ex.png#center"/>
+  <img src="https://joshyazman.github.io/images/message-framing/harris-tweet-orourke-chyron-ex.png#center"/>
 </p>
 
 Step 1 of cosine similarity asks us to convert each piece of text into lists of how often each word us used.
 
 <p>
-  <img src="https://github.com/joshyazman/joshyazman.github.io/blob/master/images/message-framing/harris-tweet-orourke-chyron-wordvec.png#center"/>
+  <img src="https://joshyazman.github.io/images/message-framing/harris-tweet-orourke-chyron-wordvec.png#center"/>
 </p>
 
 We then multiply each word count together and add up the results for each word in the vector. The word `about` is used twice in Harris' tweet and zero times in CNN's chyron so the resulting multiplication is `2 x 0 = 0`. Both texts use `returns` once, so the math is `1 x 1 = 1`. After repeating this process for all words used across each text, we add up all the multiplied word counts to get the dot product - a raw measure of how similar our two pieces of text are. In the above example the dot product is `3` because we add up the multiplied word counts for `tax`, `release` and `returns` and the rest of the word counts multiply to zero. 
 
 <p>
-  <img src="https://github.com/joshyazman/joshyazman.github.io/blob/master/images/message-framing/harris-tweet-orourke-chyron-dot.png#center"/>
+  <img src="https://joshyazman.github.io/images/message-framing/harris-tweet-orourke-chyron-dot.png#center"/>
 </p>
 
 Finally, the dot product is divided by a measure of how large each text string is so that longer texts and shorter texts are more easily comparable. The cosine similarity of each piece of text above is `.147` - not that similar!
@@ -69,7 +69,7 @@ Different people talk about electability in different ways - often projecting th
 We can observe differences in voters' concepts of electability by measuring the similarity of the language they use to talk about electability. I tested several explanatory variables like age, race, gender, education, and urbanity but the variable that showed the biggest differences in voters' expressions on the topic of electability is ideology. In the chart below, I plot the cosine similarity of descriptions of electability for people of differing political ideologies.
 
 <p>
-  <img src="https://github.com/joshyazman/joshyazman.github.io/blob/master/images/message-framing/cossim_example.png#center"/>
+  <img src="https://joshyazman.github.io/images/message-framing/cossim_example.png#center"/>
 </p>
 
 Cosine similarity demonstrates that Liberal and Very Liberal Democratic primary voters describe electability in very similar ways while Conservative and Very Liberal voters use more different language. In other words, a voters' ideology is important to their perception of who the rest of the country may be willing to vote for in the general election.
