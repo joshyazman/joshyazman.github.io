@@ -72,7 +72,7 @@ We can observe differences in voters' concepts of electability by measuring the 
   <img src="https://joshyazman.github.io/images/message-framing/cossim_example.png#center"/>
 </p>
 
-Cosine similarity demonstrates that Liberal and Very Liberal Democratic primary voters describe electability in very similar ways while Conservative and Very Liberal voters use more different language. In other words, a voters's own, personal, ideology is important to their perception of who the rest of the country may be willing to vote for in the general election.
+Cosine similarity demonstrates that Liberal and Very Liberal Democratic primary voters describe electability in very similar ways while Conservative and Very Liberal voters use more different language. In other words, a voter's own, personal, ideology is important to their perception of who the rest of the country may be willing to vote for in the general election.
 
 ## Conclusion
 Text analysis gives researchers the ability to find structures and patterns in the natural ways we talk and write. This example analysis demonstrates the use of cosine similarity in a political research context, but there are other simpler methods too, like word counts and sentiment analysis. 
