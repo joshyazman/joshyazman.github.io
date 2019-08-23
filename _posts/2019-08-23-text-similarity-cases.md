@@ -4,29 +4,30 @@ title: Text Similarity and Electability
 ---
 
 # Introduction
-In early 2019 I completed the requirements for the Master's in Predictive Analytics program at Northwestern University. One of those requirements was a thesis paper, in which I wrote about several text data analysis methods that can be applied to the question of partisan framing. I chose to focus on text analysis for two reasons:
-  - First, I think that when you give people a chance to speak freely most people will tend to tell you really interesting things about themselves! Language use can reveal attitudes and preferences in subtle ways that aren't always captured by traditional survey questions. For example, asking a survey question like "Are you a racist: Yes; No" will likely not yield interesting results. Most people would answer "No" here even if they are racist. But identifying the number of times someone uses the word "lazy" to describe black people and "hard working" to describe white people can reveal racial preferences that would otherwise be hidden to the quantified world.
-  - Second, much of the text in our lives isn't designed for quantitative analysis. Lincoln wrote the Gettysburg Address on an envelope - hardly machine-readable data. Text analysis tools and techniques allow us to take in and analyze all sorts of information that we put into the ether that would otherwise be lost. From an analysis of the words people use in their everyday lives, we can derive insights that tell us about who we are, how we behave, what we think is important, and more even when we’re not providing that information in a structured way. 
+In early 2019 I completed the requirements for the Master's in Predictive Analytics program at Northwestern University. One of those requirements was a thesis paper, in which I wrote about several text data analysis methods that can be applied to the question of partisan framing. 
+
+I chose to focus on text analysis because I think that when you give people a chance to speak freely most people will tend to tell you really interesting things about themselves! Language use can reveal attitudes and preferences in subtle ways that aren't always captured by traditional survey questions. For example, asking a survey question like "Are you a racist: Yes; No" will likely not yield interesting results. Most people would answer "No" here even if they are racist. But identifying the number of times someone uses the word "lazy" to describe black people and "hard working" to describe white people can reveal racial preferences that would otherwise be hidden to the quantified world. Much of the text in our lives isn't designed for quantitative analysis. Lincoln wrote the Gettysburg Address on an envelope - hardly machine-readable data. Text analysis tools and techniques allow us to take in and analyze all sorts of information that we put into the ether that would otherwise be lost. From an analysis of the words people use in their everyday lives, we can derive insights that tell us about who we are, how we behave, what we think is important, and more even when we’re not providing that information in a structured way. 
   
 My thesis analyzed the partisan differences in language used on the long-running Sunday morning talk show Meet the Press. I took several years' worth of show transcripts and picked out patterns in the ways that Democrats, Republicans, and journalists discussed various topics. Across a variety of topics discussed on the show, I quantified the degree to which Democrats and Republicans used differing language to frame the way voters approached issues. Then I used those same measures to compare journalists' language with each party and see if journalists adopt one party's message frame over the other.  
 
-This blog post aims to summarize the most interesting metric explored in my thesis project - cosine similarity - using [open-ended survey responses](https://www.dataforprogress.org/memos/how-the-first-debate-changed-the-race) about what `electability` means to Democratic primary voters in 2020 with differing ideologies. We'll take a bunch of disparate sentences (`bag-of-words` is the technical term) and pull out patterns that may not be visible on a manual reading of the question responses.  
+This blog post aims to summarize the most interesting metric explored in my thesis project - cosine similarity - using [open-ended survey responses](https://www.dataforprogress.org/memos/how-the-first-debate-changed-the-race) about what `electability` means to Democratic primary voters in 2020 with differing ideologies. We'll take a bunch of disparate sentences (`bag-of-words` is the [technical term](https://en.wikipedia.org/wiki/Bag-of-words_model)) and pull out patterns that may not be visible on a manual reading of the question responses.  
 
 # What Are We Doing In Text Analysis?
-The use case for text analysis in my thesis was to study partisanship through language use. Partisanship pervades many aspects of civic life from voting in elections to where we live to whom we marry. Partisanship also often impacts how (if at all) we talk about issues. Part of the reason for this is that politicians and activists often talk about issues using specific language in hopes of framing their position in the most positive light. 
+The use case for text analysis in my thesis is to study partisanship through language use. Partisanship pervades many aspects of civic life from voting in elections to where we live to whom we marry. Partisanship also often impacts how (if at all) we talk about issues. Part of the reason for this is that politicians and activists often talk about issues using specific language in hopes of framing their position in the most positive light. 
 
 A simple example of this is the tax levied against assets given to children upon the passing of their parents. Republicans call this a "death tax" because "death" sounds scary enough without being taxed for the privilege while Democrats refer to the same exact levy as an "estate tax" because only rich jerks who totally deserve to be taxed have "estates" am I right? In text analysis, we're reformatting the text into datasets to perform quantitative analysis - to systematically search for patterns. Some of the questions we might answer sound like:
+
   - How many times do people say "death" instead of "estate" or vice versa?
   - What types of voters used the most negative language when describing Ford trucks?
   - When a customer sends us a chat message that says "my account is hacked", which customer service department to we put them in touch with? Does this sound like similar problems we've solved before?
   
 These are all questions that either involve counting the number of times a pattern occurs, applying labels (like "positive" or "negative") to individual words and then counting the labels, and identifying words that occur together frequently. 
 
-My thesis project used each of the above methods to quantify the differences in the ways parties use language to discuss issues, focusing primarily on the third type of question listed - quantifying similarities (or dissimilarities) between words used to discuss issues. I then compare partisan language to ostensibly neutral third party language from journalists. When journalists use language that is more similar to one party over the other, we might be able to infer that the party's message frame is sinking in - people are internalizing their way of thinking and talking about an issue. Across almost every topic discussed on Meet the Press, Democrats and Republicans used demonstrably different language from one another, but on some topics, the ways journalists framed issues was more similar to one party or the other. 
+My thesis project used each of the above methods to quantify the differences in the ways parties use language to discuss issues, focusing primarily on the third type of question listed - quantifying similarities (or dissimilarities) between words used to discuss issues. I then compare partisan language to ostensibly neutral third party language from journalists. When journalists use language that is more similar to one party over the other, we can begin to infer that the party's message frame is sinking in - people are internalizing their way of thinking and talking about an issue. Across almost every topic discussed on Meet the Press, Democrats and Republicans used demonstrably different language from one another, but on some topics, the ways journalists framed issues was more similar to one party or the other. 
 
 The goal then is to take some amount of text data and use similarity metrics to quantify how similar or dissimilar it is to another set of text data. 
 
-In the rest of this blog post I work with a set of open-ended survey responses describing the concept of `electability`. The data was collected by Data for Progress around the time of the first Democratic Presidential debate in 2019. I apply cosine similarity to text responses from people with differing ideologies to demonstrate differences in language use.
+In the rest of this blog post I work with a set of open-ended survey responses describing the concept of `electability`. The [data](https://www.dataforprogress.org/memos/how-the-first-debate-changed-the-race) was collected by Data for Progress around the time of the first Democratic Presidential debate in 2019. I apply the cosine similarity metric to text responses from people with differing ideologies to demonstrate differences in language use.
 
 # Cosine Similarity
 The Data for Progress survey includes about 2,700 responses to the following question:
@@ -43,7 +44,7 @@ Cosine similarity analyzes text as vectors of word counts within a document (ie:
 Consider the following example comparing the below Tweet from Kamala Harris with a chyron from CNN:
 
 <p>
-  <img src="https://github.com/joshyazman/joshyazman.github.io/blob/master/images/message-framing/harris-tweet-orourke-chyron-ex.png#center"/>
+  <img src="https://github.com/joshyazman/joshyazman.github.io/blob/master/images/message-framing/harris-tweet-orourke-chyron-ex.png #center"/>
 </p>
 
 
@@ -71,3 +72,10 @@ We can observe differences in voters' concepts of electability by measuring the 
 <p>
   <img src="https://github.com/joshyazman/joshyazman.github.io/blob/master/images/message-framing/cossim_example.png#center"/>
 </p>
+
+Cosine similarity demonstrates that Liberal and Very Liberal Democratic primary voters describe electability in very similar ways while Conservative and Very Liberal voters use more different language. In other words, a voters' ideology is important to their perception of who the rest of the country may be willing to vote for in the general election.
+
+## Conclusion
+Text analysis gives researchers the ability to find structures and patterns in the natural ways we talk and write. This example analysis demonstrates the use of cosine similarity in a political research context, but there are other simpler methods too, like word counts and sentiment analysis. 
+
+Another topic not covered in this analysis is _what people are actually saying_ when discussing electability. This method finds the fissures in our thought processes but doesn't explain what goes on either side of the divide. Methods like word counts and topic modeling can help illuminate what people are talking about.
