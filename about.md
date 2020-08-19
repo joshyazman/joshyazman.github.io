@@ -7,11 +7,9 @@ permalink: /about/
   <img src="https://joshyazman.github.io/images/josh and kzir khan.png#center" width="300" height="300"/>
 </p>
 
-I'm a Campaign Analyst at BlueLabs Analytics and a lead instructor of Data Analytics at General Assembly in Washington D.C.Outside of work, I'm involved with several non-profits in the DC area including the [Pancreatic Cancer Action Network](https://secure.pancan.org/site/SPageServer/?pagename=purplestride_home) and I try to get outside whenever possible! In early 2019 I completed a master's degree progrm in Predictive Analytics at Northwestern University. 
+I'm Josh - an Analytics Manager at BlueLabs Analytics and recent Texan. As such, I use quantitative analysis techniques to help progressive candidates, campaigns, and causes make the most of the information available to them. We conduct surveys, build models, and analyze voter file data to talk to the right voters with the right message through the right media. More recently, I've been applying my targeting skillset to help a global foundation shift food aid resources to the regions in the US where the COVID-19-driven economic collapse has driven the greatest need. 
 
-My areas of expertise include project management, survey research, political organizing, and data visualization. I'm currently obsessed with text analysis.
-
-I just finished reading [On Grand Strategy](https://www.penguinrandomhouse.com/books/529363/on-grand-strategy-by-john-lewis-gaddis/9780143132516/) and [Lost City of the Monkey God](https://www.amazon.com/Lost-City-Monkey-God-Story/dp/1455569410) and highly recommend both!
+While my current position is more strategic, I started my career as a political organizer-implementing President Obama's re-election campaign plan in my home town in Virginia. I also volunteered to organize PurpleStride, an annual 5k fun run in Downtown Washington DC which raised over $750 thousand per year and most recently exceeded $1 million. In early 2019 I completed a master's degree progrm in Predictive Analytics at Northwestern University. 
 
 # Contact me
 
@@ -19,9 +17,13 @@ I just finished reading [On Grand Strategy](https://www.penguinrandomhouse.com/b
 
 [twitter](https://twitter.com/jyazman2012)
 
-[resume](https://drive.google.com/file/d/0BzcIEunjlkhhSERJMVUxU3hueG8/view?usp=sharing)
+[resume](https://drive.google.com/file/d/1LjcmYFyDPr9PCct498htn2_YVsK3m0Q_/view?usp=sharing)
 
 # External Publications
+## PanCAN
+### Why I Wage Hope: A Son's Story
+Our paths are all unique, but we are united in a common understanding that my mother professed throughout her battle: As long as you are alive, there is hope. ([more](https://www.pancan.org/about-us/pancreas-matters-enewsletters/wage-hope-sons-story/))
+
 ## Slate's _The Works_
 ### Prudie Fans Don’t Read Politics, and Other Things We Learned by Analyzing the Habits of Slate Readers
 Slate publishes a wide variety of articles ranging from culture and sports to politics and the merits of goat spamming every day. We’ve always been able to sort the more widely read articles from the less popular fare, but we’ve never been able to tell whether the readers who come to us for judicial coverage are also interested in breaking news via Slatest or getting advice columns like Dear Prudence. So we wanted to find out who Slate’s largest and most distinct groups of readers are. ([more](https://slate.com/technology/2017/10/we-analyzed-the-slate-audiences-reading-habits-heres-what-we-found.html))
@@ -29,10 +31,6 @@ Slate publishes a wide variety of articles ranging from culture and sports to po
 ## General Assembly Blog
 ### A Beginner’s Guide to Ridgeline Plots
 Decision-makers need to understand [sampling] error to make the most of survey results, so it's important for data scientists and analysts to communicate confidence intervals when visualizing estimated results. Confidence intervals are the range of values you could reasonably expect to see in your target population based on the results measured in your sample. ([more](https://generalassemb.ly/data/data-science/ridgeline-plots))
-
-## PanCAN
-### Why I Wage Hope: A Son's Story
-Our paths are all unique, but we are united in a common understanding that my mother professed throughout her battle: As long as you are alive, there is hope. ([more](https://www.pancan.org/about-us/pancreas-matters-enewsletters/wage-hope-sons-story/))
 
 ## AMERICABLOG
 ### Everything wrong with Ted Cruz’s voter shaming mailer
