@@ -1,6 +1,6 @@
 ---
 layout: post
-title: He Who Puts the Team On Their Back
+title: Balancing Individual and Team Talent Among Champions
 date: June 8th 2018
 ---
 
