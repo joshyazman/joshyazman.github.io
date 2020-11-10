@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reverse Coattails in the VA Governor’s Race
+date: 2017-11-24
 ---
 One of the more controversial hypotheses coming out of the 2017 statewide elections in Virginia is the idea of reverse coattails — a phenomenon where House of Delegates candidates boosted the vote share for the top of the ticket. Most writing on this topic has focused on whether or not Ralph Northam got a greater share of the vote in precincts with contested house races. I tend to agree with previous work that argues that down-ballot competition doesn’t really affect support for the top of the ticket. But elections are about vote share and turnout. Perhaps down-ballot competition increases turnout in helpful ways for statewide candidates.
 
