@@ -7,7 +7,8 @@ permalink: /about/
   <img src="https://joshyazman.github.io/images/josh and kzir khan.png#center" width="300" height="300"/>
 </p>
 
-I'm Josh - an Analytics Manager at BlueLabs Analytics and recent Texan. I use quantitative analysis techniques to help progressive candidates, campaigns, and causes make the most of the information available to them and make the best resource allocation decisions possible on tight budgets and timelines. My work at BlueLabs falls into a few buckets:
+# Hello!
+I'm Josh - an Analytics Manager at BlueLabs Analytics, a native Virginian, and a recent Texan. I use quantitative analysis techniques to help progressive candidates, campaigns, and causes make the most of the information available to them and make the best resource allocation decisions possible on tight budgets and timelines. My work at BlueLabs falls into a few buckets:
 
 ## Electing Great Candidates
 In 2020 I worked with Mike Espy's senate race to develop a workable campaign plan targeting the right voters through the right media to try and flip a tough Old South conservative state for an Black Democratic candidate. While we came up short, Espy ran 3.5 points ahead of the top of the Democratic ticket, more than all but one other senate race in 2020. 
@@ -42,7 +43,7 @@ That summer, as the COVID recession diminished consumer's purchasing power, much
 
 [twitter](https://twitter.com/jyazman2012)
 
-[resume](https://drive.google.com/file/d/1LjcmYFyDPr9PCct498htn2_YVsK3m0Q_/view?usp=sharing)
+[resume](https://drive.google.com/file/d/1X9q_M3whAyyobi8zG9lCvjfrZWeJePtJ/view?usp=sharing)
 
 # External Publications
 ## PanCAN
