@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 <p>
-  <img src="https://joshyazman.github.io/images/josh-and-lb-vote-shirt.png#center" width="300" height="300"/>
+  <img src="images/josh-and-lb-vote-shirt.png#center" width="450" height="350"/>
 </p>
 
 # Hello!
