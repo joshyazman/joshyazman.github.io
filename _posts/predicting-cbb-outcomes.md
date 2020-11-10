@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Predicting College Basketball Outcomes
+date: 2018-02-12
 ---
 The surest strategy to win a college basketball game is to score more points than the other team. Or, as John Madden more artfully stated: “You can’t win a game if you don’t score any points.”
 
