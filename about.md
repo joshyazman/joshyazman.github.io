@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 <p>
-  <img src="images/josh-and-lb-vote-shirt.png#center" width="500" height="400"/>
+  <img src="images/josh-and-lb-vote-shirt.png#center"/>
 </p>
 
 # Hello!
