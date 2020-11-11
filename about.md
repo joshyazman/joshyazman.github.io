@@ -53,13 +53,3 @@ Slate publishes a wide variety of articles ranging from culture and sports to po
 ## General Assembly Blog
 ### A Beginner’s Guide to Ridgeline Plots
 Decision-makers need to understand [sampling] error to make the most of survey results, so it's important for data scientists and analysts to communicate confidence intervals when visualizing estimated results. Confidence intervals are the range of values you could reasonably expect to see in your target population based on the results measured in your sample. ([more](https://generalassemb.ly/data/data-science/ridgeline-plots))
-
-## AMERICABLOG
-### Everything wrong with Ted Cruz’s voter shaming mailer
-Lab and field experiments on social pressure and voting behavior have led to plenty of promising findings about how to increase voter turnout. These efforts sometimes push the envelope on what is acceptable to say to voters to get them to the polls — where the line falls between engagement and harassment, between a nudge and a push. But social scientists have responded to that problem by documenting the effects of blowback so political campaigns don’t overdo their social pressure messaging to the point of turning off voters. Ted Cruz’s mailer is an excellent case study in how not to use social pressure in order to increase voter turnout. ([more](http://americablog.com/2016/02/everything-wrong-ted-cruz-voter-shaming-mailer.html))
-
-### Why I wish Joe Biden had run for president
-Joe Biden is fond of his father’s expressions, repeating on many occasions his dad’s saying that “A father knows he’s a success when he turns and looks at his son or daughter and know that they turned out better than he did.” Here’s my dad’s version: a parent is a success if his kids grow up to serve – in the military, in government, in their communities. I hope one day I can make my dad as proud of his work as Joe Sr. deserves to be. ([more](http://americablog.com/2015/10/why-i-wish-joe-biden-had-run-for-president.html))
-
-### Automatic voter registration in Oregon isn’t enough
-Oregon’s move to universal voter registration should be applauded, and I did take a moment to celebrate when I heard of the bill’s passage. But let’s not hold this accomplishment up as the be-all, end-all of voting reforms that will heal our body politic once and for all. Let’s continue the work of forming a more perfect union together – by seeking universal participation so we can finally hear the voices of millions of Americans who have remained quiet for far too long. ([more](http://americablog.com/2015/03/automatic-voter-registration-oregon-isnt-enough.html))
