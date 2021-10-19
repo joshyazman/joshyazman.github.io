@@ -8,12 +8,14 @@ permalink: /about/
 </p>
 
 # Hello!
-I'm Josh - an Analytics Manager at BlueLabs Analytics, a native Virginian, and a recent Texan. I use quantitative analysis techniques to help progressive candidates, campaigns, and causes make the most of the information available to them and make the best resource allocation decisions possible on tight budgets and timelines. My work at BlueLabs falls into a few buckets:
+I'm Josh - an Applied Data Science Lead at Civis Analytics, a native Virginian, and a Texas transplant. I use quantitative analysis techniques to help progressive candidates, campaigns, and causes make the most of the information available to them and make the best resource allocation decisions possible on tight budgets and timelines. My work at BlueLabs falls into a few buckets:
 
 ## Electing Great Candidates
-In 2020 I worked with Mike Espy's senate race to develop a campaign plan targeting the right voters through the right media to try and flip a tough Old South conservative state for a historic Black Democratic candidate. While we came up short, Espy ran 3.5 points ahead of the top of the Democratic ticket, more than all but one other senate race in 2020. 
+In 2020, working for BlueLabs, I worked with Mike Espy's senate race to develop a campaign plan targeting the right voters through the right media to try and flip a tough Deep South conservative state for a historic Black Democratic candidate. While we came up short, Espy ran 3.5 points ahead of the top of the Democratic ticket, more than all but one other senate race in 2020. 
 
-Previously, I advised a local candidate in New York who won a convincing re-election despite his district swinging 9 points from Obama to Trump in 2016. My team determined the candidate's underlying support levels, studied the electoral environment in the district, and developed a suite of individual-level models of voter behavior to most efficiently target messaging. 
+After the election, I conducted several detailed post-election analyses, including an analysis of Latino voters' support and enthusiasm nationally, local outcomes in the largest Metro area in the Texas, and election outcomes in key Congressional districts in Texas and Florida--all with an eye towards shaping winning electoral strategies for 2022 and beyond. 
+
+Recent research projects at Civis include forecasting state legislative outcomes in Virginia and New Jersey, polling attitudes about SB8 in Texas, and post-election analyses of Latino voters’ Democratic support and enthusiasm nationally, local election outcomes in the largest metro area in the Texas, and election outcomes in key Congressional districts in Texas and Florida–all with an eye towards shaping winning electoral strategies for 2022 and beyond.
 
 ## Committees and Independent Expenditures  
 My first project at BlueLabs was to work as an embedded consultant in the DSCC Analytics team. In that capacity I helped coordinate the delivery and implementation of analytics assets including individual models and polls, administered access to key tools like the Civis Platform and Votebuilder, and liaised with state data directors to help them make the most of the committee's resources.
