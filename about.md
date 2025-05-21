@@ -17,4 +17,4 @@ I'm Josh - an the Research Director at Catalist Analytics LLC, a native Virginia
 [twitter](https://twitter.com/jyazman2012)
 
 # LinkedIn
-For additional information, please find me on [LinkedIn](https://www.linkedin.com/in/josh-yazman-a0986439/) or download my resume [here](https://drive.google.com/drive/u/1/folders/0BzcIEunjlkhhXzN6VVBfYVRrZ3M?resourcekey=0-WJxHvGIgDKjwVQxz_Ke9_Q).
+For additional information, please find me on [LinkedIn](https://www.linkedin.com/in/josh-yazman-a0986439/) or download my resume [here](https://drive.google.com/file/d/1yqdD3GlNcCJ8danLfBMyCLysdm2bujmQ/view?usp=drive_link).
