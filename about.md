@@ -14,4 +14,4 @@ permalink: /about/
 [twitter](https://twitter.com/jyazman2012)
 
 # LinkedIn
-For additional information, please find me on [LinkedIn](https://www.linkedin.com/in/josh-yazman-a0986439/) or download my resume [here](https://drive.google.com/file/d/1yqdD3GlNcCJ8danLfBMyCLysdm2bujmQ/view?usp=drive_link).
+For additional information, please find me on [LinkedIn](https://www.linkedin.com/in/josh-yazman-a0986439/) or download my resume [here](https://drive.google.com/file/d/1p9qjl2QLvGteTBUpOcx9uGHzYrdw-qTt/view?usp=drive_link).
